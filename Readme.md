@@ -59,7 +59,7 @@ Meus primeiros cursos da ALURA de criação de uma pagina Web para uma empresa f
 
   
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+> https://curso-alura-html-8hugip3yk-leocarvalho021.vercel.app/
 
   
 
@@ -72,12 +72,12 @@ Meus primeiros cursos da ALURA de criação de uma pagina Web para uma empresa f
 
   
 
-No terminal, clone o projeto: https://github.com/LeoCarvalho021/curso-alura-html-css.git
+No terminal, clone o projeto:
 
   
 
 ```
 
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/LeoCarvalho021/curso-alura-html-css.git
 
 ```
